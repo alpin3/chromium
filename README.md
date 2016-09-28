@@ -1,6 +1,6 @@
 # alpin3/chromium
 
-Chromium browser on Alpine
+Chromium browser on Alpine through X11
 
 Image is based on the [openjdk](https://hub.docker.com/_/alpine/) base image
 
